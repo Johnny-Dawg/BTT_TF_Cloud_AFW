@@ -1,0 +1,8 @@
+                                                                                
+Connected to 'KPN6990E6'                                                        
+                                                                                
+IP address   : 192.168.2.184                                                    
+MAC address  : 3C:61:05:E0:96:43                                                
+mDNS started : BTT_TF_CLOUD_AFW.local                                           
+WebOTA url   : http://BTT_TF_CLOUD_AFW.local:80/webota                          
+                                                               
